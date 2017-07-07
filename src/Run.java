@@ -77,7 +77,7 @@ public class Run {
         personCollection.removeMax();
 
         personCollection.removeMax();
-
+        personCollection.removeMax();
 
 
     }
